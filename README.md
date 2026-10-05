@@ -1,16 +1,14 @@
-# Bamanankan - PDF Kura
+# N KA BAARA - Bamanankan na
 
-## Mun ye nin ye?
-PDF kɔrɔ min tun ye ɲɛ 1683 ye, fili caman tun b'a la (ɔ, ɛ, ɲ tiɲɛnen).
-Sisan a saniyara ka kɛ Bamanankan sɛbɛnni ɲuman ye.
+## Sɛbɛn kun
+Nin sɛbɛn in bɛ Google ka "Mon Activité" kɔnɔ taamasiɲɛnw bɛɛ lajɛ - 5,924 taamasiɲɛn, 2,311 kuma fɔlɔ, 184 ɲɛ.
 
 ## A kɔnɔkow
-- **KELEN.txt** (16KB): Nyɛ kelen nyuman, dafalen - Lo tile 5 san 2026...
-- **Bamanankan_FINAL.txt**: Kuma 422 nyuman, saniyalen, fila t'a la
+- **PDF kura:** MonActivite_Bamanankan.pdf (4.29 MB)
+- **Kuma fɔlɔ + Bamanankan na + User ka fasari**
+- **Jaamu / Image taamasiɲɛn bɛɛ lajɛlen**
 
 ## Baara kɛcogo
-Fichierw Download ka kalan. Ɔ, ɛ, ɲ, ŋ dagaw bɛɛ nyuman.
+Fichier Download ka kalan. Ɔ, ɛ, ɲ, ŋ bɛɛ ɲuman! Fili tɛ diɲɛ fan o fan!
 
----
-*Projet créé par adamacoulibalyad670-droid - 2026*
-*Termux → Github : Mission réussie !*
+Projet créé par adamacoulibalyad670-droid - 2026 - Termux -- Github
