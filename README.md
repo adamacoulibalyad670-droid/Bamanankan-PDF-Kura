@@ -1,16 +1,22 @@
-# Bamanankan - PDF Kura Juman
+# N KA BAARA - Bamanankan na
 
-## Mun ye nin ye?
-PDF kɔrɔ min tun ye ɲɛ 1683 ye, fili caman tun b'a la (ɔ, ɛ, ɲ, ŋ tiɲɛnen).
-Sisan a saniyara - kuma ɲuman 21 dɔrɔn tora, sɛbɛni ɲuman ye.
+## Sɛbɛn kun
+Nin sɛbɛn in bɛ Google ka "Mon Activité" kɔnɔ taamasiɲɛnw bɛɛ lajɛ. 
+A bɛ kuma fɔlɔw ni Bamanankan fasariw lajɛli kama ɲɔgɔn fɛ.
 
-## A kɔnɔkow
-- **Bamanankan_FINAL.txt** (1.55 KB): Kuma dafalen ɲuman - Lo tile 5 san 2026, UEMOA, CNLCP ka dɔmɔ. Ɔ, ɛ, ɲ, ŋ ɲuman!
+- **Taamasiɲɛn hakɛ:** 5,924
+- **Kuma fɔlɔ unique:** 2,311
+- **Ɲɛw:** 184
 
-## Baara kɛcogo
-File in digi ka kalan. Download ka kɛ ka mara i ka telefon kɔnɔ.
-Ɔ, ɛ, ɲ, ŋ dagaw bɛɛ ɲuman.
+## Fichiers
+- **MonActivite_Bamanankan.pdf** (4.29 MB): Baara bɛɛ dafalen - KUMA FƆLƆ + BAMANANKAN NA
+- **Bamanankan_FINAL.txt**: Kuma kelen ɲuman - UEMOA ka dɔmɔ 2026
 
-## Baara dafara!
-*Projet créé par adamacoulibalyad670-droid - 2026*
-*Github la sisan - Diɲɛ bɛɛ bɛ se ka ye!*
+## Sɛbɛn kɔnɔkow
+Kuma fɔlɔ = fɔlɔ kan na kuma. Bamanankan na = Google ka Bambara fasari.
+User ka fasari = user ye fasari min ta, o marala i n'a bɛ kɛra cogo min na.
+
+Jaamu = Image/jaamu taamasiɲɛn.
+
+**Auteur:** adamacoulibalyad670-droid - 2026
+**Github:** Diɲɛ bɛɛ bɛ se ka ye!
