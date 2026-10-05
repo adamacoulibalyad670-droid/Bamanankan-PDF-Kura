@@ -11,6 +11,6 @@ Sisan a saniyara ka kɛ Bamanankan sɛbɛnni ɲuman ye.
 ## Baara kɛcogo
 Fichierw Download ka kalan. Ɔ, ɛ, ɲ, ŋ dagaw bɛɛ nyuman.
 
----
+--- 
 *Projet créé par adamacoulibalyad670-droid - 2026*
 *Termux → Github : Mission réussie !*
